@@ -57,3 +57,7 @@ Not important: lower-level Python implementation details, object conversion and 
 - **Input:** student ID, submission time, file name
 - **Process:** validate input, store the queue, apply merge sort, record simulation steps
 - **Output:** visual queue, step description, final sorted queue
+
+
+[Final Project.pdf](https://github.com/user-attachments/files/26759322/Final.Project.pdf)
+
