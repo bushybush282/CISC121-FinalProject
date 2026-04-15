@@ -83,5 +83,45 @@ I tested the project with normal inputs and edge cases.
 3. Equal timestamps: the queue keeps the original arrival order.
 4. Bad input: the app rejects invalid timestamps and missing fields.
 
+---
+
+## Steps to Run
+
+### 1. Clone the repository
+```bash
+git clone <your-github-repo-url>
+cd ta-grading-queue-organizer
+```
+
+### 2. Create and activate a virtual environment
+**macOS / Linux**
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
+**Windows**
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+```
+
+### 3. Install requirements
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Run the app
+```bash
+python app.py
+```
+
+Then open the local Gradio link shown in the terminal.
+
+### 5. Run tests
+```bash
+python -m unittest discover tests
+```
+
 
 
