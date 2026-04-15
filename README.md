@@ -122,6 +122,13 @@ Then open the local Gradio link shown in the terminal.
 ```bash
 python -m unittest discover tests
 ```
+
+---
+
+## Screenshots
+<img width="1440" height="614" alt="Screenshot 2026-04-15 at 4 22 49 PM" src="https://github.com/user-attachments/assets/8de16874-08ca-4019-92b1-85f8462dd6e8" />
+
+
 ---
 
 ## Hugging Face Link
