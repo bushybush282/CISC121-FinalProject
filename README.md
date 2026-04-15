@@ -78,14 +78,10 @@ I tested the project with normal inputs and edge cases.
 | Missing file name | blank file field | validation error shown | Passed |
 
 ### Edge-case verification
-1. **Empty queue**
-   - The app reports that there is nothing to sort.
-2. **Single item**
-   - Merge sort immediately reaches the base case.
-3. **Equal timestamps**
-   - The queue keeps the original arrival order.
-4. **Bad input**
-   - The app rejects invalid timestamps and missing fields.
+1. Empty queue: The app reports that there is nothing to sort.
+2. Single item: merge sort immediately reaches the base case.
+3. Equal timestamps: the queue keeps the original arrival order.
+4. Bad input: the app rejects invalid timestamps and missing fields.
 
 
 
