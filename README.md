@@ -61,3 +61,31 @@ Not important: lower-level Python implementation details, object conversion and 
 
 [Final Project.pdf](https://github.com/user-attachments/files/26759322/Final.Project.pdf)
 
+---
+
+## Step 5 — Test and Verify
+
+## Testing
+I tested the project with normal inputs and edge cases.
+
+| Test Case | Input | Expected Result | Actual Result |
+|---|---|---|---|
+| Normal unsorted queue | mixed submission times | queue sorted from earliest to latest | Passed |
+| Equal timestamps | multiple students with same time | preserve original arrival order | Passed |
+| Empty queue | no submissions | no crash, helpful message | Passed |
+| One item | single submission | unchanged queue | Passed |
+| Invalid timestamp | wrong date format | validation error shown | Passed |
+| Missing file name | blank file field | validation error shown | Passed |
+
+### Edge-case verification
+1. **Empty queue**
+   - The app reports that there is nothing to sort.
+2. **Single item**
+   - Merge sort immediately reaches the base case.
+3. **Equal timestamps**
+   - The queue keeps the original arrival order.
+4. **Bad input**
+   - The app rejects invalid timestamps and missing fields.
+
+
+
