@@ -2,7 +2,7 @@
 
 ---
 
-## Step 1 — Choose a Problem and an Algorithm
+## Step 1 - Choose a Problem and an Algorithm
 
 ## Chosen Problem
 I chose **TA Grading Queue Organizer**
@@ -63,7 +63,7 @@ Not important: lower-level Python implementation details, object conversion and 
 
 ---
 
-## Step 5 — Test and Verify
+## Step 5 - Test and Verify
 
 ## Testing
 I tested the project with normal inputs and edge cases.
