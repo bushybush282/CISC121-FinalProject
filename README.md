@@ -125,11 +125,11 @@ python -m unittest discover tests
 ---
 
 ## Hugging Face Link
-
+https://huggingface.co/spaces/Nina-Busch13/CISC121-FinalProject
 
 ---
 
 ## GitHub Repository Link
-
+https://github.com/bushybush282/CISC121-FinalProject
 
 
