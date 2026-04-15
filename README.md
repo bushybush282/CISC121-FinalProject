@@ -126,7 +126,15 @@ python -m unittest discover tests
 ---
 
 ## Screenshots
+Normal unsorted queue:
 <img width="1440" height="614" alt="Screenshot 2026-04-15 at 4 22 49 PM" src="https://github.com/user-attachments/assets/8de16874-08ca-4019-92b1-85f8462dd6e8" />
+<img width="1440" height="696" alt="Screenshot 2026-04-15 at 4 27 59 PM" src="https://github.com/user-attachments/assets/15db110e-aa7d-4c5e-9513-77b5d66ae5a2" />
+
+Empty queue:
+<img width="1440" height="665" alt="Screenshot 2026-04-15 at 4 31 37 PM" src="https://github.com/user-attachments/assets/d5b80f57-aada-4326-a4d0-8e4034595d91" />
+
+Invalid timestamp:
+<img width="1440" height="665" alt="Screenshot 2026-04-15 at 4 33 56 PM" src="https://github.com/user-attachments/assets/b64a7e1a-0b88-431a-b6c7-8f3c7a241064" />
 
 
 ---
