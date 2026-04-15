@@ -132,4 +132,17 @@ https://huggingface.co/spaces/Nina-Busch13/CISC121-FinalProject
 ## GitHub Repository Link
 https://github.com/bushybush282/CISC121-FinalProject
 
+---
+
+## Author & AI Acknowledgment
+**Author:** Nina Busch
+
+### AI Use
+AI was used up to the allowed course level to help with:
+- planning the project structure
+- refining explanations
+- improving code comments and README organization
+- generating testing ideas
+
+All code was reviewed, edited, and understood before submission.
 
