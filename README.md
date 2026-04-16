@@ -2,7 +2,7 @@
 
 ---
 
-## Step 1 - Choose a Problem and an Algorithm
+## Step 1
 
 ## Chosen Problem
 I chose **TA Grading Queue Organizer**
@@ -40,7 +40,7 @@ The app highlights different parts of the queue:
 
 ---
 
-## Step 2 — Plan Using Computational Thinking
+## Step 2
 
 ### 1. Decomposition:
 collect submission records from the user, validate the input fields, store submissions in a queue, run merge sort on the queue using `submitted_at` as the sorting key, record each important step for visualization, display the current step in the GUI, show the final ordered queue
@@ -63,7 +63,7 @@ Not important: lower-level Python implementation details, object conversion and 
 
 ---
 
-## Step 5 - Test and Verify
+## Step 5
 
 ## Testing
 I tested the project with normal inputs and edge cases.
@@ -153,7 +153,7 @@ https://github.com/bushybush282/CISC121-FinalProject
 **Author:** Nina Busch
 
 ### AI Use
-AI was used up to the allowed course level to help with:
+AI was used up to help with:
 - planning the project structure
 - refining explanations
 - improving code comments and README organization
