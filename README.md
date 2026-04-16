@@ -118,10 +118,6 @@ python app.py
 
 Then open the local Gradio link shown in the terminal.
 
-### 5. Run tests
-```bash
-python -m unittest discover tests
-```
 
 ---
 
